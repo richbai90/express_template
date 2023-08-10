@@ -1,6 +1,3 @@
-Certainly! Below is a basic `README.md` file that outlines the structure and setup of the server, including instructions on where to modify and customize it. Feel free to tweak the content according to your specific requirements.
-
-```markdown
 # My Express Server
 
 This project provides a simple Express.js server that serves static HTML, CSS, and JavaScript files. Here's how the server is set up and instructions for modifying and customizing it. Before running the server, make sure to install the required packages by running `npm install`.
@@ -56,6 +53,3 @@ Please follow the existing coding style and file structure when making changes o
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
-
-This README provides an overview of the directory structure, explains how to modify different parts of the server, and gives instructions for starting and customizing the server. Feel free to modify this README to better match your project's specific requirements and conventions.
